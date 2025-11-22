@@ -38,3 +38,28 @@ TinyGPT 旨在帮助非 AI 领域的开发者轻松理解大语言模型的核�
 * [Minimind](https://github.com/jingyaogong/minimind): 学习参考了很多，感谢 jingyaogong 大佬。推荐作为进阶学习项目
 * [从零构建大模型](https://book.douban.com/subject/37305124/): 豆瓣 9.3 分，对初学者非常友好
 * [王木头学科学](https://www.bilibili.com/video/BV1XH4y1T76e/?vd_source=4a37854f1727b85c1376f579e932bde9): 如果想理解 Why，强烈推荐
+
+
+---
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/glidea/zenfeed/blob/main/docs/images/wechat.png?raw=true" alt="Wechat QR Code" width="300">
+      <br>
+      <strong>AI 学习交流社群</strong>
+    </td>
+    <td align="center">
+      <img src="https://github.com/glidea/banana-prompt-quicker/blob/main/images/glidea.png?raw=true" width="250">
+      <br>
+      <strong><a href="https://glidea.zenfeed.xyz/">我的其它项目</a></strong>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" colspan="2">
+      <img src="https://github.com/glidea/banana-prompt-quicker/blob/main/images/readnote.png?raw=true" width="400">
+      <br>
+      <strong><a href="https://www.xiaohongshu.com/user/profile/5f7dc54d0000000001004afb">📕 小红书账号 - 持续分享 AI 原创</a></strong>
+    </td>
+  </tr>
+</table>
